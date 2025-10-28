@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Go Version](https://img.shields.io/badge/Go-1.22%2B-blue)](https://go.dev/)
-[![Build](https://img.shields.io/badge/Build-Stable-green)]()
+
+[![Release](https://img.shields.io/github/v/release/AndreyBorisovichKoval/AcousticMerge)](https://github.com/AndreyBorisovichKoval/AcousticMerge/releases/latest)
 
 # 🎧 AcousticMerge — Offline WAV Merger (Companion Tool for AcousticLog)
 
